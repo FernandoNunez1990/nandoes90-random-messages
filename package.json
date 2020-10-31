@@ -14,7 +14,15 @@
   "author": "nandoes90@gmail.com",
   "license": "ISC",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FernandoNunez1990/nandoes90-random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FernandoNunez1990/nandoes90-random-messages/issues"
+  },
+  "homepage": "https://github.com/FernandoNunez1990/nandoes90-random-messages#readme"
 }
